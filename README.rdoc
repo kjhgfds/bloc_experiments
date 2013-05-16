@@ -1,0 +1,1 @@
+Hello, this repository is just a scratch pad I use while following along with the Bloc.io bootcamp.
